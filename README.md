@@ -24,18 +24,19 @@ program.
 Some of the resources I've used to learn object-oriented
 analysis and design that I've found very useful are:
 
-*  [*Object-Oriented Design Using Java* by Dale Skrien](https://www.amazon.com/Object-Oriented-Design-Using-Java-Skrien/dp/0072974168)
+*  [*Object-Oriented Design Using Java*](https://www.amazon.com/Object-Oriented-Design-Using-Java-Skrien/dp/0072974168) by Dale Skrien
     *  Dale is an **awesome** computer science professor! Not
        only was his teaching very clear and rigorous, his emphasis
        on writing elegant software has served me well and I am
        forever grateful that I had the opportunity to take multiple
        classes with him, even though I probably wasn't the best
-       student as an undergrad. Every time I think back to those
-       long nights of Java, Common LISP, and Prolog, shivers of
-       joy run down my spine! (Anyone who has ever taken a class
-       with Dale will know what I mean.)
+       student as an undergrad (because
+       [Snood](https://www.snoodworld.com/)... 😬). Every time I think
+       back to those long nights of Java, Common LISP, and Prolog,
+       shivers of joy run down my spine! (Anyone who has ever taken
+       a class with Dale will know what I mean.)
 
-*  [*Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development, 3rd edition* by Craig Larman](https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062)
+*  [*Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development, 3rd edition*](https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062) by Craig Larman
     *  I used this book in an online class on object-oriented analysis
        and design that I took through UC Santa Cruz Extension.
 
